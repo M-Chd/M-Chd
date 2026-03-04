@@ -36,7 +36,7 @@ I'm very curious and love to learn more and more.
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,blender,cmake,mysql,pr,un&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,blender,cmake,mysql,un&perline=6" />
   </a>
 </p>
 
