@@ -1,7 +1,7 @@
 # Mouad Chd
 
 Hello I am Mouad. I'm a belgian student learning Cs and Networks at school.
-I use mainly C++ for my personal projects.
+I mainly use C++ for my personal projects.
 I'm very curious and love to learn more and more.
 
 <p>
