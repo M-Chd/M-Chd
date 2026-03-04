@@ -6,18 +6,16 @@ I wrote some programs in my free time.
 # Personal stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Chd)](https://github.com/M-Chd/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Chd)](https://github.com/M-Chd/github-readme-stats)
 
+<h1> Main programming language </h1>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
 <h1>Programming languages skills </h1>
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js" />
-  </a>
-</p>
-<h1>IDE that I use/can use</h1>
-  <hl>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js" />
   </a>
 </p>
 <h1>General skills</h1>
