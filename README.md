@@ -16,10 +16,6 @@ I'm very curious and love to learn more and more.
 </p>
 </hl>
 
-# Personal stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Chd)](https://github.com/M-Chd/github-readme-stats) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Chd)](https://github.com/M-Chd/github-readme-stats)
-
 <h1> Main programming language </h1>
 <p>
   <a href="https://skillicons.dev">
