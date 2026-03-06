@@ -14,6 +14,9 @@ I'm very curious and love to learn more and more.
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=M-Chd)
+
 </hl>
 
 <h1> Main programming language </h1>
