@@ -28,14 +28,14 @@ I'm very curious and love to learn more and more.
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,js,ts" />
   </a>
 </p>
 <h1>General skills</h1>
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,blender,cmake,mysql,un&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,terraform,kubernetes,blender,cmake,mysql,qt,un&perline=8" />
   </a>
 </p>
 
