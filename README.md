@@ -27,14 +27,14 @@ I mainly use C++ for my personal projects.
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,css,js,ts" />
   </a>
 </p>
-<h1>General skills</h1>
+<h1>Others skills</h1>
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,terraform,kubernetes,blender,cmake,mysql,qt,un&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,terraform,blender,cmake,mysql,qt,un&perline=8" />
   </a>
 </p>
 
