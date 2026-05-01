@@ -8,7 +8,9 @@
 
 
 -  I am Mouad, a belgian student learning Computer Science and Networks at school. I mainly use C++ for my personal projects.
--  I learning Networking and Administration
+-  I am learning Networking and Administration.
+-  Used SDL and Raylib frameworks.
+-  Loves low-level programming. 
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=M-Chd)
