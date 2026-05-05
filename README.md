@@ -12,9 +12,6 @@
 -  Used SDL and Raylib frameworks.
 -  Loves low-level programming. 
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=M-Chd)
-
 </hl>
 
 <h1> Main programming language </h1>
