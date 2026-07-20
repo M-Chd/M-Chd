@@ -23,7 +23,7 @@
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=java,py,lua" />
   </a>
 </p>
 <h1>Others skills</h1>
